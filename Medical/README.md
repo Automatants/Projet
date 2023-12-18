@@ -1,27 +1,18 @@
-# Projet
-Le but de cette section est d'avoir un premier contact avec un projet : il y a un problème et une résolutiond de celui-ci utilisant différent modèle et typique d'algorithme. 
-Pour l'année 2023/2024 il y a 5 projets différents.
+# Applications dans le médical
 
-## Liste des Projets
-- Agents IA pour le Brandubh
-- Transfert de style
-- Reinforcement learning – Pong
-- Applications dans le médical
-- Colorisation de comics
+# Description 
+Dans ce projet, vous découvrirez deux applications de l’IA dans le domaine du médical et vous apprendrez à les implémenter. La première est très simple : On a des radios et on veut savoir si le patient est malade ou non. Pour la seconde, on va essayer de localiser une tumeur dans le cerveau. Automatiser ces deux tâches pourrait, à l’avenir, faire gagner beaucoup de temps aux médecins/radiologues.
 
-## Description des projets 
+## Objectifs 
+- Implémenter un CNN
+- Travailler sur des données brut pour en faire un dataset utilisable
+- Implémenter un Autoencodeur
+- Implémenter un Unet
 
-### Agents IA pour le Brandubh
-Création d'un agent à partir de rien pour jouer au jeu du Branduhb.
+## Ressources utiles 
+- https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+- https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 
-### Transfert de style
-Utilisation d'un modèle pré-entrainer pour transferer le style d'une image vers une image de contenu.
-
-### Reinforcement learning - Pong 
-Création d'une IA à partir de rien sur un jeu basique qu'est le pong en utilisant le principe de Reinforcement Learning.
-
-### Application dans le médical 
-Utiliser une IA pour permettre de reconnaître une fracture sur une image radio.
-
-### Colorisation des comics 
-Utilisation de GAN pour recolorier les images de manga.
+## Formations utiles :
+- Introduction à l’IA
+- Formation CN
