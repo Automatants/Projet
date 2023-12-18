@@ -1,27 +1,19 @@
-# Projet
-Le but de cette section est d'avoir un premier contact avec un projet : il y a un problème et une résolutiond de celui-ci utilisant différent modèle et typique d'algorithme. 
-Pour l'année 2023/2024 il y a 5 projets différents.
+# Agent IA pour le Brandubh
 
-## Liste des Projets
-- Agents IA pour le Brandubh
-- Transfert de style
-- Reinforcement learning – Pong
-- Applications dans le médical
-- Colorisation de comics
+## Description 
+Si vous avez déjà joué aux échecs, vous êtes sans doute familiers avec des agents comme Stockfish ou AlphaZero. Dans le contexte de ce projet, vous imiterez leurs approches pour construire des agents performants sur le jeu du Brandubh, capables de jouer à un niveau humain, et ce, from scratch !
 
-## Description des projets 
+## Objectifs 
+Construction itérative d’agents aux compétences croissantes, par des méthodes :
+- heuristiques
+- Monte-Carlo
+- CNN
+- hybrides
+- sans connaissance préalable du jeu
 
-### Agents IA pour le Brandubh
-Création d'un agent à partir de rien pour jouer au jeu du Branduhb.
+## Ressources utiles 
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm – papier de Deepmind sur le sujet](/https://arxiv.org/pdf/1712.01815.pdf)
 
-### Transfert de style
-Utilisation d'un modèle pré-entrainer pour transferer le style d'une image vers une image de contenu.
-
-### Reinforcement learning - Pong 
-Création d'une IA à partir de rien sur un jeu basique qu'est le pong en utilisant le principe de Reinforcement Learning.
-
-### Application dans le médical 
-Utiliser une IA pour permettre de reconnaître une fracture sur une image radio.
-
-### Colorisation des comics 
-Utilisation de GAN pour recolorier les images de manga.
+## Formations utiles :
+- Formation CNN
+- Formation RL
