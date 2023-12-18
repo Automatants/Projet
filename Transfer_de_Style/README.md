@@ -1,27 +1,22 @@
-# Projet
-Le but de cette section est d'avoir un premier contact avec un projet : il y a un problème et une résolutiond de celui-ci utilisant différent modèle et typique d'algorithme. 
-Pour l'année 2023/2024 il y a 5 projets différents.
+# Transfert de style
 
-## Liste des Projets
-- Agents IA pour le Brandubh
-- Transfert de style
-- Reinforcement learning – Pong
-- Applications dans le médical
-- Colorisation de comics
+## Description 
+Concilier l’art et l’IA ? Vous pensiez ça impossible ? Eh bien non, c’est désormais à portée de main ! Ce projet 
+vise à faire du transfert de style (Neural Style Transfert ou NST). L’idée est simple : prendre une photo 
+quelconque et un tableau et transférer le style du tableau sur la photo.
+Pour faire ceci, on va récupérer un réseau de neurones entraîné, que l’on va tronquer à différents endroits. Cela 
+permet de récupérer le contenu et le style d’une image. L’idée est alors de créer une image conciliant le contenu 
+de notre photo avec le style de notre tableau.
 
-## Description des projets 
+## Objectifs 
+- Comprendre les notions derrière le transfert de style
+- Apprendre à tronquer un réseau de neurones
+- Découvrir les bases du machine learning pour le traitement d'image numérique
+- Apprendre à faire une boucle d’entraînement
 
-### Agents IA pour le Brandubh
-Création d'un agent à partir de rien pour jouer au jeu du Branduhb.
+## Ressources utiles :
+- https://arxiv.org/pdf/1508.06576.pdf
+- https://medium.com/mlearning-ai/cnn-neural-style-transfer-88829c6e8f75
+- https://towardsdatascience.com/towards-fast-neural-style-transfer-191012b86284
 
-### Transfert de style
-Utilisation d'un modèle pré-entrainer pour transferer le style d'une image vers une image de contenu.
-
-### Reinforcement learning - Pong 
-Création d'une IA à partir de rien sur un jeu basique qu'est le pong en utilisant le principe de Reinforcement Learning.
-
-### Application dans le médical 
-Utiliser une IA pour permettre de reconnaître une fracture sur une image radio.
-
-### Colorisation des comics 
-Utilisation de GAN pour recolorier les images de manga.
+## Formations utiles : Formation CN
