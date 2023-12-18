@@ -16,5 +16,5 @@ Avec ce projet, tu apprendras les bases du RL (Reinforcement Learning) en utilis
 - Introduction à l'IA
 
 ## C'est parti !
-Pour accéder au contenu c'est [ici](/https://github.com/Hugo-dgn/automapong)
+Pour accéder au contenu c'est [ici](/https://github.com/Hugo-dgn/automapong/tree/main)
 
