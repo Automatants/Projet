@@ -3,11 +3,11 @@ Le but de cette section est d'avoir un premier contact avec un projet : il y a u
 Pour l'année 2023/2024 il y a 5 projets différents.
 
 ## Liste des Projets
-- Agents IA pour le Brandubh
-- Transfert de style
-- Reinforcement learning – Pong
-- Applications dans le médical
-- Colorisation de comics
+- [Agents IA pour le Brandubh](/Brandubh)
+- [Transfert de style](/Transfert_de_style)
+- [Reinforcement learning – Pong](/Pong_RL)
+- [Applications dans le médical](/Medical)
+- [Colorisation de comics](/Colorisation)
 
 ## Description des projets 
 
