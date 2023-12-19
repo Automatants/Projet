@@ -12,6 +12,8 @@ Pour l'année 2023/2024 il y a 5 projets différents.
 ## Description des projets 
 
 ### Agents IA pour le Brandubh
+[](/image_brandubh.png)
+
 Création d'un agent à partir de rien pour jouer au jeu du Branduhb.
 
 ### Transfert de style
