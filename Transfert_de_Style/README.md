@@ -1,5 +1,10 @@
 # Transfert de style
 
+![](https://github.com/Automatants/Projet/blob/main/image_transfert.png)
+
+
+
+
 ## Description 
 Concilier l’art et l’IA ? Vous pensiez ça impossible ? Eh bien non, c’est désormais à portée de main ! Ce projet 
 vise à faire du transfert de style (Neural Style Transfert ou NST). L’idée est simple : prendre une photo 
