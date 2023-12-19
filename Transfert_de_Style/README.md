@@ -1,5 +1,10 @@
 # Transfert de style
 
+![](https://github.com/Automatants/Projet/blob/main/image_transfert.png)
+
+
+
+
 ## Description 
 Concilier l’art et l’IA ? Vous pensiez ça impossible ? Eh bien non, c’est désormais à portée de main ! Ce projet 
 vise à faire du transfert de style (Neural Style Transfert ou NST). L’idée est simple : prendre une photo 
@@ -19,4 +24,5 @@ de notre photo avec le style de notre tableau.
 - https://medium.com/mlearning-ai/cnn-neural-style-transfer-88829c6e8f75
 - https://towardsdatascience.com/towards-fast-neural-style-transfer-191012b86284
 
-## Formations utiles : Formation CN
+## Formations utiles : 
+- Formation CNN

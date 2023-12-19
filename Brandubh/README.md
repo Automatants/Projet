@@ -1,5 +1,7 @@
 # Agent IA pour le Brandubh
 
+![](https://github.com/Automatants/Projet/blob/main/image_brandubh.png)
+
 ## Description 
 Si vous avez déjà joué aux échecs, vous êtes sans doute familiers avec des agents comme Stockfish ou AlphaZero. Dans le contexte de ce projet, vous imiterez leurs approches pour construire des agents performants sur le jeu du Brandubh, capables de jouer à un niveau humain, et ce, from scratch !
 
