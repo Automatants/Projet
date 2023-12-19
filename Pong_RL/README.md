@@ -1,5 +1,7 @@
 # Reinforcement learning - Pong
 
+![](https://github.com/Automatants/Projet/blob/main/image_brandubh.png)
+
 ## Description 
 Pourquoi s'amuser si une IA peut le faire pour nous ? Ce projet vise à transformer une IA qui ne sait pas ce qu'est une raquette en un professionnel du ping-pong ! 
 Avec ce projet, tu apprendras les bases du RL (Reinforcement Learning) en utilisant un jeu assez simple pour entraîner l'IA directement sur ton PC. Ensuite, tu pourras appliquer ces connaissances à ton jeu ou environnement préféré !
