@@ -19,4 +19,4 @@ experts pour générer des images mais aussi en traduire d’un domaine à un au
 - https://arxiv.org/abs/1611.07004 (Pix2Pix)
 
 ## Formations utiles :
-- Formation GAN + TP associ
+- Formation GAN + TP associé
