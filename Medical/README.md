@@ -17,4 +17,4 @@ Dans ce projet, vous découvrirez deux applications de l’IA dans le domaine du
 
 ## Formations utiles :
 - Introduction à l’IA
-- Formation CN
+- Formation CNN
