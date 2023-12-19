@@ -24,4 +24,5 @@ de notre photo avec le style de notre tableau.
 - https://medium.com/mlearning-ai/cnn-neural-style-transfer-88829c6e8f75
 - https://towardsdatascience.com/towards-fast-neural-style-transfer-191012b86284
 
-## Formations utiles : Formation CN
+## Formations utiles : 
+- Formation CNN
