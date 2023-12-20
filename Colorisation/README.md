@@ -20,3 +20,6 @@ experts pour générer des images mais aussi en traduire d’un domaine à un au
 
 ## Formations utiles :
 - Formation GAN + TP associé
+
+## Responsable :
+ Florian Pape (@flope5)

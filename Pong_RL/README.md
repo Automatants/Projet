@@ -17,6 +17,9 @@ Avec ce projet, tu apprendras les bases du RL (Reinforcement Learning) en utilis
 ## Foramtion utile : 
 - Introduction à l'IA
 
+## Responsable :
+Hugo Degeneve (@Hugo_dgn)
+
 ## C'est parti !
 Pour accéder au contenu c'est [ici](https://github.com/Hugo-dgn/automapong/tree/main)
 

@@ -20,7 +20,8 @@ Construction itérative d’agents aux compétences croissantes, par des méthod
 - Formation CNN
 - Formation RL
 
-## Responsable : Killian Mc Court (@KillianMcCourt)
+## Responsable :
+Killian Mc Court (@KillianMcCourt)
 
 ## C'est parti !
 Pour accéder au contenu c'est [ici](https://drive.google.com/drive/folders/1wfa-cFM7l4chhzuHglVLPH2aBFEStYE3?usp=drive_link)

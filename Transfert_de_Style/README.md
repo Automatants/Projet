@@ -26,3 +26,6 @@ de notre photo avec le style de notre tableau.
 
 ## Formations utiles : 
 - Formation CNN
+
+## Responsable :
+Thibault N (07 68 03 30 65, @thibautndn)
